@@ -1,4 +1,4 @@
-package com.example.spocktestdemo;
+package com.example.spocktestdemo.generate.mybatisplus;
 
 import com.baomidou.mybatisplus.annotation.DbType;
 import com.baomidou.mybatisplus.annotation.IdType;
